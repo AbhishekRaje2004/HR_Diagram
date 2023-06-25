@@ -1,2 +1,2 @@
 # HR_Diagram
-scatter plot using the luminosity and temperature of the star
+scatter plot comparing the luminosity and temperature of the star
